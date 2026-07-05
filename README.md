@@ -4,7 +4,7 @@ An AI-powered Placement Preparation Platform that helps students become placemen
 ## Screenshots
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dash1.png)
 
 ### Login
 ![Login](login2.png)
