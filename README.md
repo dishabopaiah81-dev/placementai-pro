@@ -1,7 +1,19 @@
 # PlacementAI Pro
 
 An AI-powered Placement Preparation Platform that helps students become placement-ready through comprehensive tools and AI-driven analysis.
+## Screenshots
 
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Login
+![Login](login2.png)
+
+### Mock Interview
+![Mock Interview](interview.png)
+
+### Placement Readiness
+![Placement Score](placement.png)
 ## Features
 
 ### Core Features
